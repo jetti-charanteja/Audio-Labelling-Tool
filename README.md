@@ -28,9 +28,7 @@ python main.py
 ![Audio Upload](IMAGES/audio_upload.jpg)
 
 ### Play Audio
-▶️ [Watch & Autoplay Audio](IMAGES/play_audio.html)
-
-
+▶️ [Watch & Autoplay Video](IMAGES/play_audio.html)
 
 ### Manual Transcription
 ![Manual Transcribe](IMAGES/manual_transcribe.jpg)
