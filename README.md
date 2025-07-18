@@ -20,7 +20,17 @@ python main.py
 ```
 
 ## 📸 Screenshots
-Include waveform and label screenshots under `IMAGES/`.
+Include waveform and label screenshots: 
+`IMAGES/main_ui.jpg`
+`IMAGES/audio_upload.jpg`
+`IMAGES/manual_transcribe.jpg`
+`IMAGES/save_and_next.jpg`
+`IMAGES/wave_form.jpg`
+`IMAGES/auto_transcribe.jpg`
+`IMAGES/play_audio.mp4`
+`IMAGES/csv.jpg`
+`IMAGES/pdf.jpg`
+`IMAGES/sql_upload.jpg`
 
 ## 🙋‍♂️ Author
 Jetti Charan Teja Naga Sai
