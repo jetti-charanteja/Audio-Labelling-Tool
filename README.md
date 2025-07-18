@@ -28,7 +28,6 @@ python main.py
 ![Audio Upload](IMAGES/audio_upload.jpg)
 
 ### Play Audio
-<video src="IMAGES/play_audio.mp4" autoplay controls muted style="width:100%; height:auto;"></video><!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8">
