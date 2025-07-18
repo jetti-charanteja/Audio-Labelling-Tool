@@ -13,14 +13,14 @@ Python, Tkinter, Librosa, SpeechRecognition, Matplotlib, MySQL
 
 ## 🚀 Setup
 ```bash
-git clone https://github.com/your-username/audio-labeling-transcription-tool.git
-cd audio-labeling-transcription-tool
+git clone https://github.com/jetti-charanteja/Audio-Labelling-Tool.git
+cd Audio-Labelling-Tool
 pip install -r requirements.txt
 python main.py
 ```
 
 ## 📸 Screenshots
-Include waveform and label screenshots under `screenshots/`.
+Include waveform and label screenshots under `IMAGES/`.
 
 ## 🙋‍♂️ Author
 Jetti Charan Teja Naga Sai
