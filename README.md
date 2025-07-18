@@ -28,15 +28,8 @@ python main.py
 ![Audio Upload](IMAGES/audio_upload.jpg)
 
 ### Play Audio
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <title>Play Audio</title>
-</head>
-<body>
-  <video src="IMAGES/play_audio.mp4" autoplay controls muted style="width:100%; height:auto;"></video>
-</body>
-</html>
+▶️ [Watch & Autoplay Audio](IMAGES/play_audio.html)
+
 
 
 ### Manual Transcription
