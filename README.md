@@ -20,17 +20,38 @@ python main.py
 ```
 
 ## 📸 Screenshots
-Include waveform and label screenshots: 
-`IMAGES/main_ui.jpg`
-`IMAGES/audio_upload.jpg`
-`IMAGES/manual_transcribe.jpg`
-`IMAGES/save_and_next.jpg`
-`IMAGES/wave_form.jpg`
-`IMAGES/auto_transcribe.jpg`
-`IMAGES/play_audio.mp4`
-`IMAGES/csv.jpg`
-`IMAGES/pdf.jpg`
-`IMAGES/sql_upload.jpg`
+
+### Main UI
+![Main UI](IMAGES/main_ui.jpg)
+
+### Audio Upload
+![Audio Upload](IMAGES/audio_upload.jpg)
+
+### Play Audio
+▶️ [Watch Audio Playback](IMAGES/play_audio.mp4)
+
+
+### Manual Transcription
+![Manual Transcribe](IMAGES/manual_transcribe.jpg)
+
+### Save and Next
+![Save and Next](IMAGES/save_and_next.jpg)
+
+### Waveform
+![Waveform](IMAGES/wave_form.jpg)
+
+### Auto Transcribe
+![Auto Transcribe](IMAGES/auto_transcribe.jpg)
+
+### CSV Export
+![CSV](IMAGES/csv.jpg)
+
+### PDF Download
+![PDF](IMAGES/pdf.jpg)
+
+### SQL Upload
+![SQL](IMAGES/sql_upload.jpg)
+
 
 ## 🙋‍♂️ Author
 Jetti Charan Teja Naga Sai
