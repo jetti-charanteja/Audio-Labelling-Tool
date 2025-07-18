@@ -1,0 +1,11 @@
+tk
+pygame
+pydub
+librosa
+matplotlib
+pillow
+pandas
+fpdf
+speechrecognition
+pyaudio
+mysql-connector-python
